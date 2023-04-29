@@ -1,7 +1,7 @@
 # Cybersecurity Tools
 
-1. Network Security Monitoring: **[Zeek](https://zeek.org/)***
-Zeek, formerly known as Bro, is an open-source network security monitoring tool that analyzes network traffic in real time, providing insights into network activity, security threats, and performance issues. Zeek operates as a passive network sniffer, meaning it does not generate any traffic or interfere with network operations. It can be used to monitor a wide range of network protocols, including HTTP, SMTP, DNS, and SSH, and can detect and alert on security threats such as malware, botnets, and denial of service attacks. Zeek also provides extensive logging and reporting capabilities, allowing users to analyze and visualize data from multiple sources
+1. Network Security Monitoring: **[Zeek](https://zeek.org/)**
+<br>Zeek, formerly known as Bro, is an open-source network security monitoring tool that analyzes network traffic in real time, providing insights into network activity, security threats, and performance issues. Zeek operates as a passive network sniffer, meaning it does not generate any traffic or interfere with network operations. It can be used to monitor a wide range of network protocols, including HTTP, SMTP, DNS, and SSH, and can detect and alert on security threats such as malware, botnets, and denial of service attacks. Zeek also provides extensive logging and reporting capabilities, allowing users to analyze and visualize data from multiple sources
 
 2. AntiVirus: ClamAV
 3. Vulnerability Scanning: OpenVAS
