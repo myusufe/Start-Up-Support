@@ -1,8 +1,8 @@
 # Remote Jobs 
 
 
-1. **FlexJobs** They have a lot of remote and flexible job opportunities, making it easier for you to find flexible work arrangements that suit your needs.
-Link- flexjobs.com
+1. **[FlexJobs](https://www.linkedin.com/company/flexjobs-com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHNLHASPWTY6NCcSFRZKH%2BA%3D%3D)** They have a lot of remote and flexible job opportunities, making it easier for you to find flexible work arrangements that suit your needs.
+Link- **[flexjobs.com](https://flexjobs.com)**
 
 2. **[Remote.co](https://remote.co/)** A lot of companies seek remote workers here, you can find lot of opportunities here. They also offer advice and best practices for managing remote teams and job listings. 
 Link- remote.co
