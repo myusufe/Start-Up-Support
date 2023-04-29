@@ -1,8 +1,8 @@
 # AI Tools
 
 1. **[Chartify AI](https://www.chartify.ai/)**: Turn CSS into beautiful charts and graphs using GPT-4.
-2. Warmest AI: Draft your email replies before you even open your inbox.
-3. Roam Around: Use AI to generate travel itineraries with all the relevant links.
+2. **[Warmest AI](https://www.warmest.ai/)**: Draft your email replies before you even open your inbox.
+3. **[Roam Around](https://www.roamaround.io/)**: Use AI to generate travel itineraries with all the relevant links.
 4. Quotify AI: Extract meaningful quotes from books, articles, or texts.
 5. Logoscapes AI: Make your logo incredible with AI.
 6. Twig AI: Ask your documents any questions and get answers.
