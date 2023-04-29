@@ -8,10 +8,10 @@
 6. **[Twig AI](https://www.twig.so/)**: Ask your documents any questions and get answers.
 7. MapDeduce: Understand any document with the help of AI.
 8. **[B7Labs AI](https://b7labs.co/)**: Use AI to summarize any website URL you feed it.
-9. Reimagine AI: Reimagine your home with this AI-powered interior designer.
-10. Flawless AI: An AI tool for video creation.
-11. Konjer AI: A library of books that allows you to talk to suggested books.
-12. Interax AI: Integrate AI into your website, blogs, or platform without any code.
+9. **[Reimagine AI](https://www.reimaginehome.ai/)**: Reimagine your home with this AI-powered interior designer.
+10. **[Flawless AI](https://www.flawlessai.com/)**: An AI tool for video creation.
+11. **[Konjer AI](https://dropchat.co/)**: A library of books that allows you to talk to suggested books.
+12. **[Interax AI](https://interaxai.com/)**: Integrate AI into your website, blogs, or platform without any code.
 13. Draw 3D: An AI-powered tool to transform your sketch into realistic artwork.
 14. OpenRead AI: Convert PDF-format scientific papers into interactive papers.
 15. Speeko AI: An AI-powered tool to instantly get feedback on your speaking style.
