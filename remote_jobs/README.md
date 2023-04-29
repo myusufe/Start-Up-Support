@@ -2,6 +2,7 @@
 
 
 1. **[FlexJobs](https://flexjobs.com)** They have a lot of remote and flexible job opportunities, making it easier for you to find flexible work arrangements that suit your needs.
+<a href="https://akaicloud.com" target="_blank"> test</a>
 
 2. **[Remote.co](https://remote.co/)** A lot of companies seek remote workers here, you can find lot of opportunities here. They also offer advice and best practices for managing remote teams and job listings. 
 
