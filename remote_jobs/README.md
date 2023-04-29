@@ -21,4 +21,16 @@
 
 10. **[Guru.com](http://guru.com/)** If you are specifically looking for clients in software development, design or writing categories. This is the go to platform! 
 
+11. **[Rev.com](http://rev.com/)** You can work as a freelancer, transcribe audio and video files, translate documents, and complete other language-related tasks.
 
+12. **[Taskrabbit.com](http://taskrabbit.com/)** They connect freelancers with clients who need help with tasks like cleaning, moving, and assembling furniture.
+
+13. **[UserTesting](http://usertesting.com/)** You can get paid in to test websites and apps and provide feedback on usability.
+
+14. **[Patreon.com](http://patreon.com/)** : If you are a creator, they allow you to earn money through fan support and subscription-based services.
+
+15. **[Instacart.com](http://instacart.com/)** They hire freelance shoppers to deliver groceries and other household items to customers.
+
+16. **[Gigwalk.com](http://gigwalk.com/)** A platform that allows freelancers to complete short-term gigs such as data collection, merchandising, and product demos.
+
+17. **[Etsy Studio](http://etsystudio.com/)** Marketplace for craft supplies and materials where you can sell your own handmade items or supplies.
