@@ -4,10 +4,10 @@
 2. **[Warmest AI](https://www.warmest.ai/)**: Draft your email replies before you even open your inbox.
 3. **[Roam Around](https://www.roamaround.io/)**: Use AI to generate travel itineraries with all the relevant links.
 4. Quotify AI: Extract meaningful quotes from books, articles, or texts.
-5. Logoscapes AI: Make your logo incredible with AI.
-6. Twig AI: Ask your documents any questions and get answers.
+5. **[Logoscapes AI](https://logomaster.ai/)**: Make your logo incredible with AI.
+6. **[Twig AI](https://www.twig.so/)**: Ask your documents any questions and get answers.
 7. MapDeduce: Understand any document with the help of AI.
-8. B7Labs AI: Use AI to summarize any website URL you feed it.
+8. **[B7Labs AI](https://b7labs.co/)**: Use AI to summarize any website URL you feed it.
 9. Reimagine AI: Reimagine your home with this AI-powered interior designer.
 10. Flawless AI: An AI tool for video creation.
 11. Konjer AI: A library of books that allows you to talk to suggested books.
