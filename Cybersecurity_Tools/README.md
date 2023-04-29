@@ -8,8 +8,12 @@
 
 3. Vulnerability Scanning: **[OpenVAS](https://www.openvas.org/)**
 <br>OpenVAS (Open Vulnerability Assessment System) is an open-source vulnerability scanner that helps organizations identify and prioritize vulnerabilities in their network infrastructure, applications, and devices. It utilizes a database of known vulnerabilities and exploits, as well as a variety of tools and techniques, to scan systems and report on potential weaknesses. OpenVAS can be used to assess the security of systems running a variety of operating systems, including Windows, Linux, and macOS. It is a comprehensive tool that is used by a wide range of organizations to improve the security of their systems and networks.
-4. Incident Response: TheHive
-5. Security Appliance: PFSense
+4. Incident Response: **[TheHive](https://thehive-project.org/)**
+<br>TheHive is an open-source incident response platform that is designed to help organizations quickly and effectively respond to security incidents and threats. It provides a central platform for managing and tracking incidents and tools for analyzing and triaging threats, collaborating with team members, and communicating with stakeholders. TheHive integrates with a variety of other security tools and technologies, including malware analysis platforms, threat intelligence feeds, and SIEM systems, to provide a holistic view of incidents and facilitate efficient response
+
+5. Security Appliance: **[PFSense](https://www.pfsense.org/)**
+<br>PFSense is an open-source security appliance that provides firewall, VPN, and router capabilities in a single package. It is designed for use in small to medium-sized businesses and organizations and can be easily configured to meet the specific security needs of a given organization. PFSense includes a web-based management interface that allows administrators to easily set up and manage firewall rules, VPN connections, and others to enhance their network security.
+
 6. Analytics: Elastic
 7. Endpoint Visibility: Osquery
 8. Packet Capture and Search: Arkime
