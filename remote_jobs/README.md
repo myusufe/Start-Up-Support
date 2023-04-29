@@ -7,7 +7,7 @@ Link- flexjobs.com
 2. **[Remote.co](https://remote.co/)** A lot of companies seek remote workers here, you can find lot of opportunities here. They also offer advice and best practices for managing remote teams and job listings. 
 Link- remote.co
 
-3. Working Nomads- It curates remote job opportunities from around the web and compiles them in one place, making it easier for you to find relevant opportunities.
+3. **[Working Nomads](https://www.workingnomads.com/jobs)** It curates remote job opportunities from around the web and compiles them in one place, making it easier for you to find relevant opportunities.
 Link- workingnomads.co/jobs
 
 4. We Work Remotely- Board for remote jobs, feature job opportunities across various industries, including software development, design, marketing, and more.
