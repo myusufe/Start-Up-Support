@@ -15,8 +15,8 @@
 13. Draw 3D: An AI-powered tool to transform your sketch into realistic artwork.
 14. OpenRead AI: Convert PDF-format scientific papers into interactive papers.
 15. Speeko AI: An AI-powered tool to instantly get feedback on your speaking style.
-16. Marmof AI: Create original plagiarism-free content 10X faster.
-17. Cowriter AI: AI-powered text editor to empower the creative writing process.
+16. **[Marmof AI](https://marmof.com/)**: Create original plagiarism-free content 10X faster.
+17. **[Cowriter AI](https://cowriter.org/)**: AI-powered text editor to empower the creative writing process.
 18. AI Tools: A huge collection of AI web pages and sites.
 19. Gling AI: An AI tool to cut out silences and bad takes from your video.
 20. Jamie AI: Take all your meeting notes with AI and save time.
