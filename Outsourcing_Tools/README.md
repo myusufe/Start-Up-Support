@@ -5,12 +5,12 @@
 
 &emsp;&emsp;Pricing: Starts at $5/job
 
-21. **[Upwork](https://www.upwork.com/)**
+2. **[Upwork](https://www.upwork.com/)**
 <br>Are you thinking of hiring freelancers for your startup? Upwork makes finding contractors in almost every field — from web design to copywriting — super simple. With their rating and reference system, you can feel confident about your short-term hires by diving into their skill level, background, and reviews from other clients. 
 
 &emsp;&emsp;Pricing: Free - $849/month
 
-22. **[AngelList](https://angel.co/)**
+3. **[AngelList](https://angel.co/)**
 <br>AngelList has an extensive network of over 8 million workers, with a tech-heavy focus among that workforce. Companies with great growth stories, such as DoorDash, Roblox, and Peloton, have used the platform. It has the help you need to go from startup to success too.
 
 &emsp;&emsp;Pricing: Free–$250+/month
