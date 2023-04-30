@@ -10,7 +10,7 @@ Pricing: Free
 
 Pricing: $15/month - $20/month
 
-3. **[Leanstack\(https://leanstack.com/)**
+3. **[Leanstack](https://leanstack.com/)**
 <br>Leanstack is the industry leader for lean startup tools. From business planning to mentorship, Leanstack provides startup entrepreneurs with the tools to develop a plan for a sustainable business model that is primed for rapid growth. 
 
 Pricing: Free - $120/month
