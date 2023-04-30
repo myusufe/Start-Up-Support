@@ -1,4 +1,4 @@
-# Project Managementy Software
+# Project Management Software
 
 1. **[OpenProject](https://www.openproject.org/)***
 <br>OpenProject is an agile, efficient, classic, and hybrid open-source project management software. You will have access to secure your privacy with the highest standards in privacy and data security. Installing it in your infrastructure helps you get complete control and data ownership.
