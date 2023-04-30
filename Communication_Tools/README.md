@@ -3,7 +3,7 @@
 1. **[Slack](https://slack.com/)**
 <br>Every business owner knows that communication is key to operating a successful business. With Slack, communicating within your team is quick, easy, and intuitive. Unlike communicating through email, users use instant messaging to chat with individual team members, public channels, and organized private groups. Additionally, you can add an unlimited number of members to keep communication strong as your startup grows. 
 
-&nbsp;Pricing: Free - $12.50/user/month
+&emsp;Pricing: Free - $12.50/user/month
 
 2. **[Ooma](https://www.ooma.com/)**
 <br>Ooma offers business phone support with big-business features but on a small-business budget. Once set up, the service comes with a virtual receptionist, extension dialing, call conferencing, holding music, and in-field calls for employees who travel. Although the setup is DIY in order to keep costs low, a guide makes it easy enough to set up your business’s phones in just a few minutes.
