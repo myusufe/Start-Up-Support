@@ -91,10 +91,14 @@ MathML
 <br>TED-Ed offers free and easily understandable video lessons that span many intriguing topics for educators and students. Examples include advancements in technology, environmental events and medical conditions. The software focuses content on building beginner knowledge, but some lessons target specific high-level skills.
 
 
-23. HippoCampus
-HippoCampus offers over 7,000 free educational resources on essential topics taught throughout middle school to college. Learners can access content covering topics such as religion and sociology. They can also boost their mathematical knowledge with lessons on statistics and calculus.
+23. **[HippoCampus](https://www.hippocampus.org/)**
+<br>HippoCampus offers over 7,000 free educational resources on essential topics taught throughout middle school to college. Learners can access content covering topics such as religion and sociology. They can also boost their mathematical knowledge with lessons on statistics and calculus.
 
-Related: Guide for Sociology Majors: Coursework, Benefits and Top Careers
-24. Coursera
-Coursera offers paid and free courses by over 200 industry giants and highly regarded universities. Their courses may target advanced learners. They can also cover a variety of subject areas, including health, arts, humanities and business.
+24. **[Coursera](https://www.coursera.org/)**
+<br>Coursera offers paid and free courses by over 200 industry giants and highly regarded universities. Their courses may target advanced learners. They can also cover a variety of subject areas, including health, arts, humanities and business.
 
+25. **[Udemy](https://udemy.com)**
+<br>Udemy help organizations of all types and sizes prepare for the path ahead — wherever it leads. Udemy curated collection of business and technical courses help companies, governments, and nonprofits go further by placing learning at the center of their strategies.
+
+26. **[Linkedin learning](https://learning.linkedin.com/)**
+<br>LinkedIn Learning is the skill-building solution that empowers employees to develop the right skills to grow their career.
