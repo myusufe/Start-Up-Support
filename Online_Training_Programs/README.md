@@ -34,7 +34,7 @@
 
 10. **[Mozilla Developer Network](https://developer.mozilla.org/en-US/)**
 <br>Mozilla Developer Network offers free web development resources for those at all stages of their careers. Beginners and experts can find guides on the MDN on how to get started developing platforms. Its materials include in-depth informational sessions on the following topics:
-
+```
 HTML
 CSS
 JavaScript
@@ -44,7 +44,7 @@ APIs
 DOM
 Browser extensions
 MathML
-
+````
 11. **[Learnable](https://www.learnable.education/)**
 <br>Learnable's database of content for IT and software development is expansive, with nearly 5,000 interactive video lessons available through its low-cost paid monthly subscription service. They also offer code samples and quizzes that prepare learners to earn certifications. Learnable is accessible through mobile apps.
 
