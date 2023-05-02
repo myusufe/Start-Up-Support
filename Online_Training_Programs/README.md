@@ -45,7 +45,7 @@ DOM
 Browser extensions
 MathML
 ```
-`
+
 11. **[Learnable](https://www.learnable.education/)**
 <br>Learnable's database of content for IT and software development is expansive, with nearly 5,000 interactive video lessons available through its low-cost paid monthly subscription service. They also offer code samples and quizzes that prepare learners to earn certifications. Learnable is accessible through mobile apps.
 
@@ -53,44 +53,42 @@ MathML
 12. **[Pluralsight](https://www.pluralsight.com/)**
 <br>Pluralsight's paid training courses focus on creative tech and cover topics such as IT administration, web development, data visualization, game design and animation. They offer nearly 4,000 courses and supplemental resources to help learners. The platform may benefit you if your goal is to develop games that tell engaging stories and are easy for users to navigate.
 
-13. Aquent Gymnasium
-Aquent Gymnasium offers free online courses that industry experts teach. The platform features rotating course selections in web design and user experience that teach practical skills. Users can also access career opportunities through Aquent after learning new skills.
+13. **[Aquent Gymnasium](https://thegymnasium.com/)**
+<br>Aquent Gymnasium offers free online courses that industry experts teach. The platform features rotating course selections in web design and user experience that teach practical skills. Users can also access career opportunities through Aquent after learning new skills.
 
 
-14. JustinGuitar
-JustinGuitar hosts over 1,200 free guitar lessons that help you learn about chords, scales and ear training. You can also learn how to operate recording equipment. JustinGuitar has a practice assistant feature, which can help you keep track of your progress. 
+14. **[JustinGuitar](https://www.justinguitar.com/)**
+<br>JustinGuitar hosts over 1,200 free guitar lessons that help you learn about chords, scales and ear training. You can also learn how to operate recording equipment. JustinGuitar has a practice assistant feature, which can help you keep track of your progress. 
 
 
-15. Drawspace
-Drawspace offers both self-guided and instructor-led drawing lessons. The platform can help beginner and advanced students hone their drawing skills. Drawspace also hosts classroom resources that educators can use for their students.
+15. **[Drawspace](https://www.drawspace.com/)**
+<br>Drawspace offers both self-guided and instructor-led drawing lessons. The platform can help beginner and advanced students hone their drawing skills. Drawspace also hosts classroom resources that educators can use for their students.
 
 
-16. Dave Conservatoire
-Dave Conservatoire is a free online music learning platform that offers music instruction. The materials can help you develop your skill set if you're a beginner or have previous music experience. Its platform includes video lessons and practice tests to help you learn about music and song composition.
+16. **[Dave Conservatoire](https://daveconservatoire.org/)**
+<br>Dave Conservatoire is a free online music learning platform that offers music instruction. The materials can help you develop your skill set if you're a beginner or have previous music experience. Its platform includes video lessons and practice tests to help you learn about music and song composition.
 
 
-17. CreativeLive
-CreativeLive offers paid courses in many creative subjects. Their lessons can teach learners about photo and video, art and design, music and audio and crafts. CreativeLive gives enrollees the option to learn from its mobile app or on a web-based platform, and industry experts and celebrity professionals teach its courses.
+17. **[CreativeLive](https://www.creativelive.com/)**
+<br>CreativeLive offers paid courses in many creative subjects. Their lessons can teach learners about photo and video, art and design, music and audio and crafts. CreativeLive gives enrollees the option to learn from its mobile app or on a web-based platform, and industry experts and celebrity professionals teach its courses.
 
-Related: 7 of the Best Online Project Management Certificate Programs
-18. 360training
-360training provides educational programs for users who want to earn qualifications for a specific industry. For example, you can take real estate courses to prepare you for pursuing a real estate license or courses about safety and compliance. The platform also hosts lessons about food management and alcohol safety.
-
-
-19. Khan Academy
-Khan Academy offers free online resources on topics that students learn in K-12 and university settings. You can learn science subjects, including physics, chemistry and biology or math subjects, including economics and finance. Other specialized topics that Khan Academy can expose you to include computer programming and medicine.
-
-Related: FAQ: What Careers Can You Pursue With an Economics Degree?
-20. Academic Earth
-Academic Earth offers thousands of free online college courses from different universities across the globe. Subjects you can study include computer science, accounting and law. Learners can access lessons and an online directory that can help them find a degree program.
+18. **[360training](https://www.360training.com/)**
+<br>360training provides educational programs for users who want to earn qualifications for a specific industry. For example, you can take real estate courses to prepare you for pursuing a real estate license or courses about safety and compliance. The platform also hosts lessons about food management and alcohol safety.
 
 
-21. Alison
-Alison hosts free online courses in fields ranging from technology to wellness. Its courses can help you build introductory skills and prepare for licensure or certification exams. Alison also offers paid services where you can earn certificates and diplomas.
+19. **[Khan Academy](https://www.khanacademy.org/)**
+<br>Khan Academy offers free online resources on topics that students learn in K-12 and university settings. You can learn science subjects, including physics, chemistry and biology or math subjects, including economics and finance. Other specialized topics that Khan Academy can expose you to include computer programming and medicine.
+
+20. **[Academic Earth](https://academicearth.org/)**
+<br>Academic Earth offers thousands of free online college courses from different universities across the globe. Subjects you can study include computer science, accounting and law. Learners can access lessons and an online directory that can help them find a degree program.
 
 
-22. TED-Ed
-TED-Ed offers free and easily understandable video lessons that span many intriguing topics for educators and students. Examples include advancements in technology, environmental events and medical conditions. The software focuses content on building beginner knowledge, but some lessons target specific high-level skills.
+21. **[Alison](https://alison.com/)**
+<br>Alison hosts free online courses in fields ranging from technology to wellness. Its courses can help you build introductory skills and prepare for licensure or certification exams. Alison also offers paid services where you can earn certificates and diplomas.
+
+
+22. **[TED-Ed](https://ed.ted.com/)**
+<br>TED-Ed offers free and easily understandable video lessons that span many intriguing topics for educators and students. Examples include advancements in technology, environmental events and medical conditions. The software focuses content on building beginner knowledge, but some lessons target specific high-level skills.
 
 
 23. HippoCampus
