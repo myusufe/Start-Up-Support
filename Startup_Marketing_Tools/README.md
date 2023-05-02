@@ -5,7 +5,7 @@
 
 &emsp;&emsp;Pricing: Free
 
-2. **[HubSpot}(https://www.hubspot.com/)**
+2. **[HubSpot](https://www.hubspot.com/)**
 <br>Aptly named, HubSpot has a marketing hub with multiple spokes. The CRM, sales, marketing, and customer service hubs are each unique apps that can stand on their own, but the true power comes when you combine their data through seamless integration. Overall, HubSpot is one of the best marketing tools for startups.
 
 &emsp;&emsp;Pricing: Free–$5,000/month
@@ -35,17 +35,17 @@
 
 &emsp;&emsp;Pricing: Free–$1,300+/month
 
-8. eReleases
+8. **[eReleases](https://www.ereleases.com/)**
 <br>Publish your newsworthy stories in the press. eReleases won’t actually publish your story in papers or magazines, but it’ll distribute press releases to 1.7 million journalists who work for US publications. A big-name publication could pick up your story if the press release is truly revolutionary. Even if no major national publication runs the press release, though, the release will be posted in a number of lesser-known areas where search engines will take notice.
 
 &emsp;&emsp;Pricing: $299–$599
 
-9. Google Analytics
+9. **[Google Analytics](https://analytics.google.com/analytics/web/)**
 <br>Google Analytics provides website data from one of the internet’s largest companies. Google’s position enables it to gather extensive website visit data, and it can integrate that data with other Google tools (e.g. Google Adwords, Google Search Console). Not many web analytics programs for small businesses offer more data in as understandable a form, and even fewer have an informative free version that small businesses can use.
 
 &emsp;&emsp;Pricing: Free–$12,500/month
 
-10. Hootsuite
+10. **[Hootsuite](https://www.hootsuite.com/)**
 <br>Hootsuite harnesses the power of social media, without the aggravation of having to constantly be on. Use the software to create and schedule posts, set up paid ads and sponsored posts, and build a library of branded content. Over 80% of Fortune 1000 companies use Hootsuite, and plenty of small businesses do too.
 
 &emsp;&emsp;Pricing: $49–$739+/month
