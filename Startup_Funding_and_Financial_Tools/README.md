@@ -10,3 +10,16 @@
 
 &emsp;&emsp;Pricing: $300/year - $3,000/year
 
+3. **[FounderPass](https://www.founderpass.com/)**
+<br>FounderPass is an all-in-one startup tool designed to assist founders and startups with various aspects of building and managing a business. Whether you need help with legal and financial issues, fundraising, or business development, FounderPass has you covered.
+
+&emsp;&emsp;Pricing: Basic Free, Full Membership at $99 per month
+
+4. **[Crunchbase](https://www.crunchbase.com/)**
+<br>A leading startup platform for entrepreneurs to explore innovative organizations. It lets you connect with experts and pursue new opportunities together. More than 50 million entrepreneurs, investors, market researchers, and sales professionals trust this tool for startup to make their business decisions. Many startups from all across the world rely on Crunchbase to power their applications.
+
+5. **[inDinero](https://www.indinero.com/)**
+<br>It lets you gear up for growth with scalable accounting software and on-demand CFOs (Chief Financial Officers). Their cloud-based solution allows you to scale your startup with the right accounting, tax management, and CFO support whenever you need it.
+
+6. **[Fresh Books](https://www.freshbooks.com/accounting-software/for-small-business)** 
+<br>It is an all-In-one startup invoicing and accounting software solution. Fresh Books makes your startup bookkeeping fast, convenient, and secure. It automates your financial tasks such as organizing expenses, invoicing, tracking payments and following up with the clientele in just a few clicks.
