@@ -10,3 +10,12 @@
 
 &emsp;&emsp;Pricing: Free - $69 per user per month
 
+3. **[CRM by Hubspot for Startups](https://www.hubspot.com/startups)**
+<br>Hubspot CRM is a great pick for startup owners. Honestly, you don’t need the frills, but you can use assistance with the data entries of your business. HubSpot centralizes your contact list. It helps you by automatically logging customer interactions, and extracting the data from the web to generate information about your potential customers.
+
+4. **[Intercom Early Stage](https://www.intercom.com/early-stage)**
+<br>Intercom can help you scale your early-stage startup with ease. Its user-friendly products let you acquire, onboard, engage or support your customers in a personalized manner.
+You can improve your website conversions with targeted visitor messages and live chat. You can also send behavior-based push and email messages to onboard new clients. It lets you track and segmentize your prospects based on their personas, and the actions they take on your website or the product page.
+
+5. **[Salesflare](https://salesflare.com/)**
+<br>Salesflare has an amazing integration with both Gmail (including Workspace) and Office 365, gathering a ton of information from your inbox and meetings, tracking email opens and clicks, powering email templates, and offering a handy sidebar that allows you to use Salesflare 100% from your inbox.
