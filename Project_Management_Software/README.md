@@ -30,6 +30,32 @@
 
 &emsp;&emsp;Pricing: Free - $24.99/user/month
 
+7. **[Height](https://height.app/product#visualizations)**
+<br>Height is the all-in-one project management tool that can be used by startups to accommodate workflows on a team-by-team basis and includes unlimited members, guests, and tasks in its free plan.
 
-## Reference:
-https://startupsavant.com/best-startup-tools
+8. **[Zoho Projects](https://www.zoho.com/)**
+<br>Team members can organize tasks by priority, set due dates, and assign other users.
+Zoho Projects is an online project management tool that lets teams plan, track, and collaborate on project work. The tool is scalable for startups and small businesses.
+
+9. **[ClickUp](https://clickup.com/)**
+<br>Startups can manage their projects using Gantt charts starting from the free forever version.
+ClickUp is a project management software that sits at the top of many lists. Full of features and with an incredible free version, this tool has what all startups need: great functionality at a low or non-existent price
+
+10. **[Forecast](https://www.forecast.app/)**
+<br>Forecast’s auto schedule feature turns a rough list of tasks into a comprehensive project plan.
+Forecast is a project management software for startups that unites your projects, resources, and financials in one AI-powered platform. Project managers can leverage Forecast’s workflow automation capabilities to create smart schedules, estimate timeframes and budgets, and populate timesheets instantly. Forecast is currently used in over 40 countries by an assortment of agencies, consulting companies, SMBs, and enterprises.
+
+11. **[Freedcamp](https://freedcamp.com/)**
+<br>Teams can view upcoming tasks on calendars and schedules.
+Freedcamp is a project management software that comes with something that most startups today consider as the industry standard: a robust mobile app that’s available on iOS and Android. This means that startups without an office or with limited available computers can access project management data on their personal smartphone device or tablet.
+
+
+12. **[Hubstaff](https://hubstaff.com/)**
+<br>Hubstaff Tasks is a project management software for startups with multiple task tracking and collaboration features. Its interface is based on the Kanban methodology; it lets you organize tasks in different project stages, which are represented by columns. Each task can be categorized using color-coded labels. One of its notable features is custom workflows. These let you automate assigning tasks to team members at different project stages and moving them forward with one click.
+
+13. **[TeamGantt](https://www.teamgantt.com/)**
+<br>TeamGantt offers intuitive and colour-coded Gantt charts for tracking progress and timeline.
+TeamGantt is a project management tool that offers the most comprehensive Gantt chart building tool. They promise users a simple, easy-to-use, online Gantt chart maker for planning, scheduling, and managing projects. Simply drag and drop tasks according to start and end dates, link dependencies, and flag milestones.
+
+
+
