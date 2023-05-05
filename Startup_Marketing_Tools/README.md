@@ -55,3 +55,11 @@
 With Mangools, you can find all the right keywords, analyze the search results in any location, compare yourself with competitors, track your keyword positions and boost them all with powerful backlinks.
 
 
+12. **[Hunter.io](https://hunter.io/)**
+<br>Hunter.io assists you in finding business emails within seconds. By simply searching any domain, it will provide you with all the email addresses that are connected to it.  With 200+ million email addresses indexed, it’s one of the most powerful tools for finding email addresses in order to connect with the relevant experts for your business.
+
+13. **[CallHippo](https://callhippo.com/)**
+<br>A powerful Voice-over-Internet-Protocol(VoIP) service provider, CallHippo is a market leader in providing business phone numbers. A great tool for start-ups and mid-sized businesses, CallHippo has a wide array of innovative features that improve sales capabilities and agent performance. It enables managers to monitor calls, track key performance indicators, and provide real-time feedback to increase bottom-line results. With third-party integrations, a user-friendly interface, and high-level customization.
+
+14. **[SendPulse](https://sendpulse.com/features/crm)**
+<br>Staying in touch with your customers is probably the most important objective for a startup for it to stay afloat and be successful. Some customers like good old email, others might prefer chatbots or an SMS with a discount coupon. SendPulse is all about multichannel marketing. Offering various lead generation tools and promotional channels like email, SMS, or social media and messenger chatbots, SendPulse has every base covered. There is even a free CRM tool within the platform. The platform is constantly evolving, adding new features. The latest addition is an Instagram chatbot that apart from usual things can react to subscribers’ stories that mention your brand.
