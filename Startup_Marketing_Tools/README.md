@@ -63,3 +63,8 @@ With Mangools, you can find all the right keywords, analyze the search results i
 
 14. **[SendPulse](https://sendpulse.com/features/crm)**
 <br>Staying in touch with your customers is probably the most important objective for a startup for it to stay afloat and be successful. Some customers like good old email, others might prefer chatbots or an SMS with a discount coupon. SendPulse is all about multichannel marketing. Offering various lead generation tools and promotional channels like email, SMS, or social media and messenger chatbots, SendPulse has every base covered. There is even a free CRM tool within the platform. The platform is constantly evolving, adding new features. The latest addition is an Instagram chatbot that apart from usual things can react to subscribers’ stories that mention your brand.
+
+15. **[WiseStamp](https://www.wisestamp.com/email-signature-management/)**
+<br>WiseStamp is a popular email signature management tool that lets businesses run email-based employee advocacy campaigns on autopilot. With WiseStamp, businesses can centrally create one email signature that is automatically synced to the email addresses of all employees in the organization.
+WiseStamp works seamlessly across all the popular email clients, including G Suite, Outlook, Mac Mail, and more. The service offers an easy drag-and-drop interface to create beautiful email signatures in minutes.
+
