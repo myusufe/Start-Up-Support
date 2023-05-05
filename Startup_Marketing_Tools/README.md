@@ -68,3 +68,6 @@ With Mangools, you can find all the right keywords, analyze the search results i
 <br>WiseStamp is a popular email signature management tool that lets businesses run email-based employee advocacy campaigns on autopilot. With WiseStamp, businesses can centrally create one email signature that is automatically synced to the email addresses of all employees in the organization.
 WiseStamp works seamlessly across all the popular email clients, including G Suite, Outlook, Mac Mail, and more. The service offers an easy drag-and-drop interface to create beautiful email signatures in minutes.
 
+
+16. **[Sumo](https://sumo.com/)**
+<br>Sumo is a free tool for capturing email addresses and collecting lead information. Take your pick from over a dozen different welcome mats, triggered popups, smart bars, and more. Sumo offers a paid version too, but the freemium is adequate for most startups.
