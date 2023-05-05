@@ -68,6 +68,16 @@ With Mangools, you can find all the right keywords, analyze the search results i
 <br>WiseStamp is a popular email signature management tool that lets businesses run email-based employee advocacy campaigns on autopilot. With WiseStamp, businesses can centrally create one email signature that is automatically synced to the email addresses of all employees in the organization.
 WiseStamp works seamlessly across all the popular email clients, including G Suite, Outlook, Mac Mail, and more. The service offers an easy drag-and-drop interface to create beautiful email signatures in minutes.
 
-
 16. **[Sumo](https://sumo.com/)**
 <br>Sumo is a free tool for capturing email addresses and collecting lead information. Take your pick from over a dozen different welcome mats, triggered popups, smart bars, and more. Sumo offers a paid version too, but the freemium is adequate for most startups.
+
+17. **[AnswerThePublic](https://answerthepublic.com/)**
+<br>Digital ads are a waste of time and money. Content marketing is the best tool startups have for reaching targeted audiences and building brand awareness. AnswerThePublic can help you churn out hundreds of content ideas.
+
+
+18. **[Optimizely](https://www.optimizely.com/)**
+<br>Optimizely is one of the best tools for startups because it helps you create an awesome digital experience (DX) across each platform. This is especially critical with Google’s Core Web Vitals update set to prioritize websites based on DX.
+
+19. **[BuzzSumo](https://buzzsumo.com/)**
+<br>Find the best-performing social media content across all platforms with BuzzSumo.
+
