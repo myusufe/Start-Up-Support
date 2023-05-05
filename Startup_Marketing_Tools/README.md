@@ -50,5 +50,8 @@
 
 &emsp;&emsp;Pricing: $49–$739+/month
 
-## Reference:
-https://startupsavant.com/best-startup-tools
+11. **[Mangools](https://mangools.com/)**
+<br>Mangools is a set of five Search Engine Optimization (SEO) tools for startups like KWFinder, SerpChecker, SerpWatcher, LinkMiner, and SiteProfiler. It helps startups to create effective SEO workflows.
+With Mangools, you can find all the right keywords, analyze the search results in any location, compare yourself with competitors, track your keyword positions and boost them all with powerful backlinks.
+
+
