@@ -5,17 +5,17 @@
 
 &emsp;&emsp;Pricing: Free - $24.99/month
 
-9.**[Zyro](https://zyro.com/)**
+2. **[Zyro](https://zyro.com/)**
 <br>Zyro offers easy and budget-friendly website creation. One-year domain registration is free with one of the affordable monthly hosting plans, which are priced to be within even small startups’ budgets. The builder itself is intuitive, but there’s 24/7 customer support should you need help.
 
 &emsp;&emsp;Pricing: $2.99–$15/month
 
-10. **[Web.com](https://www.web.com/)**
+3. **[Web.com](https://www.web.com/)**
 <br>Web.com holds your hand through the website building process. All new customers receive 1 hour of free customer support, and the interface itself is easy to use. Higher-end plans include basic search engine optimization and payment processing, so you don’t have to spend more on these particular services.
 
 &emsp;&emsp;Pricing: $10–$20/month or $50–$100/year
 
-11. **[Squarespace](https://www.squarespace.com/)**
+4. **[Squarespace](https://www.squarespace.com/)**
 <br>Award-winning, user-friendly design is the hallmark of SquareSpace. Users can design their website for free using their two-week free trial and upgrade the site as they go to include premium marketing features. Squarespace works for a range of startup types, whether you’re selling and marketing goods or scheduling appointments — their a la carte style allows you to choose what your startup website needs and leave the rest. 
 
 &emsp;&emsp;Pricing: $12/month - $40/month
