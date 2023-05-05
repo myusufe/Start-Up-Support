@@ -25,5 +25,16 @@
 
 &emsp;&emsp;Pricing: For businesses, $33.99/month - $79.99/month
 
-## Reference:
-https://startupsavant.com/best-startup-tools
+6. **[Logo Design](https://www.logodesign.net/)**
+<br>Logo design is an online logo maker tool to give your new startup a compelling visual identity. The program hosts an extensive gallery of unique logo templates for a huge array of industries. The designs are visually-appealing, fit for varying style tastes, and easily customizable. You don’t have to be a graphic designer to be able to work this tool. By simply clicking on different design features, you can change the logo icon, edit the colors, choose another font, or make tons of other changes available on the customization panel.
+
+7. **[Unsplash](https://unsplash.com/)** 
+<br>Unsplash is one of those startup tools that offer high-resolution stock images so that you can create visually appealing promotions and campaigns for your startup. The world’s most generous community of photographers contributes actively to this platform.
+
+8. **[Canva](https://www.canva.com/)** 
+<br>Canva is an online graphic designing tool. It is widely used by many individuals and startups to design social media posts, blog graphics, Twitter headers, Facebook ads, Instagram posts and much more. With a library of more than a million fonts, images,and icons, you can come up with an array of visually appealing content.
+
+9. **[Visme](https://www.visme.co/)**
+<br>Visme is a powerful design tool for startups that lets you showcase amazing visual stories in presentations, infographics, and other forms of visual content. You can easily translate boring content into stunning visual formats in your web browser.
+
+
