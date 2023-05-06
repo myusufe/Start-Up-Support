@@ -12,7 +12,7 @@ This repository has a lot information for people who want to start a startup bus
 - https://www.profitbooks.net/google-for-business-free-tools/
 - https://geekflare.com/open-source-project-management-software/#geekflare-toc-openproject
 - https://www.profitbooks.net/top-ten-business-software-with-a-free-plan/
-
+- https://salvadorbriggman.com/best-tech-startup-news-websites/
 
 ## To update this repository
 
