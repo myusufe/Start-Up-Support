@@ -63,3 +63,33 @@ o
 17. **[Google Keep](https://keep.google.com/u/0/)**
 <br>There are numerous tools to manage notes like Evernote and OneNote. However, Google Keep is a lightweight and super easy tool that comes in handy while managing daily chores.
 The best part of Google Keep is its native integration with other Google services. It has a spectacular system for setting reminders that tie directly into other Google services.
+
+18. **[Google Drawings](https://docs.google.com/drawings/?usp=mkt_drawings)**
+<br>Many of us are familiar with Google Docs, Sheets, and Slides, but not everyone knows about Google Drawings. Although it’s not a full image editor like MS Paint, Google Drawings is a powerful real-time collaborative graphics editor. It’s essentially an online whiteboard that lets you create diagrams, flow charts, wireframes, infographics, and more.
+
+
+19. **[Google Groups](https://groups.google.com/)**
+<br>Google Groups is one of Google’s oldest services but is still unknown to most people. It is a collaborative space for online discussions around any topic. Each group has its email address, and members can share information using this single email address instead of emailing each member separately. Discussions are threaded and you can join a conversation on Google Groups or via email if you are part of a group’s mailing list.
+
+20. **[Google Windows Resizer](https://chrome.google.com/webstore/detail/google-keep-window-resize/jdhkkkapgdggbnglgficlikfkcbfebec?hl=en)**
+<br>As more and more devices are coming up with different screen sizes, crafting a user experience for a website or app that’s intuitive and powerful is a tricky proposition. To help Web designers achieve a balance, Google has introduced a useful utility called Google Windows Resizer.
+
+
+21. **[Google PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect)**
+<br>Your webpage’s loading speed is critical to the visitor experience, and Google recognizes this. To help developers optimize their web pages, Google has created several useful tools under the name PageSpeed. One of these tools is PageSpeed Insights.
+
+22. **[Google URL Shortener (goo.gl)](https://goo.gl/)**
+<br>Sometimes sharing a long URL on social networks like Twitter can be painful. This is where Google’s URL Shortener comes in handy. You can feed any long URL to it and this tool generates a short link that can be shared anywhere.
+
+23. **[Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom/)**
+<br>Designed for teachers and students, Google Classroom helps easily connect the class, track their progress, and achieve more together.
+Teachers can create classes, distribute assignments, send feedback, and see everything in one place. Google Classroom ties Google’s many products together to help educational institutions go to a paperless system.
+
+24. **[Developer Tools](https://developers.google.com/products/)**
+<br>Google offers hundreds of tools for developers to help them with creating better web applications, and mobile apps, build apps on top of Google products such as Maps, and lots more.
+Most of these Google products are unknown to a normal internet user. Check out these developer tools sites more for information.
+
+25. **[Google Digital Garage](https://digitalgarage.withgoogle.com/)**
+<br>Digital Garage is a fantastic resource from Google where you get free tutorials on everything from your website to online marketing and beyond. Choose the topics you want to learn or complete the whole online course for a certification from Google.
+Topics range from building an online presence, improving search engine rankings, using social media, selling online, and a lot more.
+
