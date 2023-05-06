@@ -49,3 +49,17 @@ One of the key benefits of using Google Blogger for your business is that Google
 
 13. **[Google Search Console](https://search.google.com/search-console/welcome)**
 <br>Google Search Console is a powerful tool that provides valuable insights into your website’s traffic, health, and optimization. By using this tool, you can gain a better understanding of how your site is performing on Google’s search engine results page and identify opportunities for improvement.
+
+14. **[Google Feedburner]()**
+<br>Google Feedburner is a powerful tool that enables your website visitors to subscribe to your blog content via RSS feeds. Once subscribed, visitors can receive regular updates through their web browsers, RSS readers, or email, helping to keep them engaged and informed about your business.
+
+15. **[Google Scholar](https://scholar.google.com/)**
+<br>Fed up with routine articles on a specific topic – like business growth? Consider using Google Scholar for more in-depth and meaningful research. It is an online, freely accessible search engine that provides a simple way to broadly search for scholarly literature. It searches a wide variety of sources, including academic publishers, universities, articles, theses, books, abstracts, and court opinions.
+o
+
+16. **[Google Calendar](https://calendar.google.com/calendar/u/0/r)**
+<br>Google Calendar is more than just a simple scheduling tool. It offers a wide range of hidden features that can help you boost your productivity and streamline your workflow. For instance, you can create different calendars for specific teams or projects, schedule meetings with groups using “Find a Time” or “Suggested Times” features, and add a Google chat  link to your event. You can also browse interesting calendars from public sources, sync your calendar with your CRM, and much more.
+
+17. **[Google Keep](https://keep.google.com/u/0/)**
+<br>There are numerous tools to manage notes like Evernote and OneNote. However, Google Keep is a lightweight and super easy tool that comes in handy while managing daily chores.
+The best part of Google Keep is its native integration with other Google services. It has a spectacular system for setting reminders that tie directly into other Google services.
