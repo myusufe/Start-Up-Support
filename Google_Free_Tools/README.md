@@ -40,6 +40,12 @@ With this tool, you can visualize and compare data through interactive line grap
 10. **[Google Forms](https://www.google.com/forms/about/)**
 <br>Google Forms is a versatile tool that can help businesses collect valuable data from their customers. With its easy-to-use online forms, you can gather information for a variety of purposes such as maintaining sales leads, conducting surveys, or even administering interview tests.
 
-11. Google Blogger
+11. **[Google Blogger](https://www.blogger.com/)**
 <br>Google Blogger is a well-known blogging platform that is often overlooked by businesses. By utilizing this tool, you can create blog content that keeps your customers up-to-date with the latest company news and product updates.
 One of the key benefits of using Google Blogger for your business is that Google will prioritize your content on its search engine results page, giving your posts a boost in visibility and helping potential customers find you more easily.
+
+12. Keyword Planner
+<br>Google’s Keyword Planner is an essential tool for businesses that are considering advertising on the platform. By providing valuable insights into search traffic and budget estimates, this tool can help you make informed decisions about your ad campaigns. With its powerful search analytics capabilities, you can also discover which keywords your target audience is searching for, and fine-tune your ad content accordingly.
+
+13. **[Google Search Console](https://search.google.com/search-console/welcome)**
+<br>Google Search Console is a powerful tool that provides valuable insights into your website’s traffic, health, and optimization. By using this tool, you can gain a better understanding of how your site is performing on Google’s search engine results page and identify opportunities for improvement.
