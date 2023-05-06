@@ -32,3 +32,14 @@ One of the key features of Google Retail is the ability to create a Trusted Stor
 
 8. **[Google Jamboard](https://jamboard.google.com/?pli=1)**
 <br>Google Jamboard is a collaborative digital whiteboard that allows users to create, share, and collaborate on ideas and projects in real-time. With its intuitive and user-friendly interface, Jamboard makes it easy to brainstorm with colleagues, draw diagrams, make flowcharts, and create interactive presentations.
+
+9. **[Google Public Data Explorer]()**
+<br>Google Public Data Explorer is a powerful tool that enables you to access and explore publicly available data from various sources such as the World Bank, OECD, Eurostat, and the University of Denver.
+With this tool, you can visualize and compare data through interactive line graphs, bar graphs, cross-sectional plots, and m
+
+10. **[Google Forms](https://www.google.com/forms/about/)**
+<br>Google Forms is a versatile tool that can help businesses collect valuable data from their customers. With its easy-to-use online forms, you can gather information for a variety of purposes such as maintaining sales leads, conducting surveys, or even administering interview tests.
+
+11. Google Blogger
+<br>Google Blogger is a well-known blogging platform that is often overlooked by businesses. By utilizing this tool, you can create blog content that keeps your customers up-to-date with the latest company news and product updates.
+One of the key benefits of using Google Blogger for your business is that Google will prioritize your content on its search engine results page, giving your posts a boost in visibility and helping potential customers find you more easily.
