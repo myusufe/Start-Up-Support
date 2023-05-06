@@ -8,7 +8,6 @@ For businesses seeking to captivate, interact, and satisfy their customers, HubS
 
 3. Profitbooks (Accounting & Invoicing Software)
 Read more about the several accounting software to aid your business in our article here.
-
 ProfitBooks has emerged as a great substitute for Wave accounting in recent times. It serves as the ideal option for individuals who are not adept at managing business finances. ProfitBooks’ free plan is full of exciting and valuable features
 
 4. Odoo (Inventory Management Software)
