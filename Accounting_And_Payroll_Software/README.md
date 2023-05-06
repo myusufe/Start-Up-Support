@@ -25,7 +25,7 @@
 
 &emsp;&emsp;Pricing: $249+/month
 
-6. i**[1-800Accountant](https://1800accountant.com/)**
+6. **[1-800Accountant](https://1800accountant.com/)**
 <br>Spend less on accounting without sacrificing expertise. 1-800Accountant uses the efficiencies of ecommerce to bring down accounting costs. You still get a dedicated CPA, who manages your LLC business taxes and can be reached anytime you have a question. You just don’t have to pay your accountant as much.
 
 &emsp;&emsp;Pricing: Free–$375/month
