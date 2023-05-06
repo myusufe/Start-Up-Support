@@ -30,5 +30,3 @@
 
 &emsp;&emsp;Pricing: Free–$375/month
 
-## Reference:
-https://startupsavant.com/best-startup-tools

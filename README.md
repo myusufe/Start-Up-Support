@@ -11,6 +11,7 @@ This repository has a lot information for people who want to start a startup bus
 - https://thedigitalprojectmanager.com/tools/best-project-management-software-for-startups/
 - https://www.profitbooks.net/google-for-business-free-tools/
 - https://geekflare.com/open-source-project-management-software/#geekflare-toc-openproject
+- https://www.profitbooks.net/top-ten-business-software-with-a-free-plan/
 
 
 ## To update this repository
