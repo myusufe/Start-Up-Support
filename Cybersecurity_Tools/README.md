@@ -78,5 +78,3 @@
 <br>NMAP (Network Mapper) is an open source network mapping and security scanning tool that helps organizations identify and assess the security of their systems and networks. It includes a wide range of features for mapping networks, identifying live hosts, and scanning for vulnerabilities, as well as for analyzing and visualizing data.
 
 
-## Reference:
-https://informationsecuritybuzz.com/top-open-source-cyber-security-tools-best-for-you/

@@ -1,5 +1,6 @@
 # Start Up Support 
-
+## About this github repository
+This repository has a lot information for people who want to start a startup business. You will get a lot software and tools that is very usefull for your business.
 
 ## References
 - https://startupsavant.com/best-startup-tools
@@ -7,7 +8,12 @@
 - https://linkub.io/blog/the-best-startup-directories-for-software-companies/
 - https://www.makeuseof.com/best-automation-and-orchestration-tools-linux/
 - https://www.cloudways.com/blog/best-startup-tools/
+- https://thedigitalprojectmanager.com/tools/best-project-management-software-for-startups/
+- https://www.profitbooks.net/google-for-business-free-tools/
+- https://geekflare.com/open-source-project-management-software/#geekflare-toc-openproject
 
+
+## To update this repository
 
 …or create a new repository on the command line
 ```

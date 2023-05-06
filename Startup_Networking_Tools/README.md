@@ -20,5 +20,3 @@
 
 &emsp;&emsp;Pricing: Per minute based on expert’s rate
 
-## Reference:
-https://startupsavant.com/best-startup-tools
