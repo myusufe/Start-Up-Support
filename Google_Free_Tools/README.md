@@ -15,6 +15,5 @@ Not only does this help you build your web presence, but it also generates more 
 
 3. **[Google For Retail Businesses](https://www.google.com/retail/solutions/merchant-center/)**
 <br>Google Retail is a valuable tool that many business owners may not be familiar with yet. It provides solutions for merchants to list their inventory on Google and launch shopping ad campaigns, which can help drive more traffic and sales to their online store.
-<br>
 One of the key features of Google Retail is the ability to create a Trusted Store, which allows businesses to display customer ratings and manage inventory across Google using Merchant Center. Google Trusted Stores have to pass a test for reliable shipping and customer service, and in so doing, they earn the right to display a Trusted Store badge.
 
