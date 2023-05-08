@@ -16,7 +16,7 @@ This repository has a lot information for people who want to start a startup bus
 
 ## Donation for Jakarta Silicon Valley Hub Business Non-Profit Organization
 
-**[Donation](https://www.paypal.com/donate/?hosted_button_id=P4VC8MCT7NDKJ)**
+**Make [Donation](https://www.paypal.com/donate/?hosted_button_id=P4VC8MCT7NDKJ)**
 
 
 
