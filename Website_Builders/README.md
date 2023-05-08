@@ -20,3 +20,13 @@
 
 &emsp;&emsp;Pricing: $12/month - $40/month
 
+5. **[Shopify](https://www.shopify.com/)**
+<br>One of the most popular options for eCommerce companies of all sizes is Shopify. Shopify has all the tools you need to launch an online store because it is completely focused on becoming an eCommerce platform. So, Shopify is the way to go if you are an E-commerce startup. 
+Fun Fact –  over 5.7 million websites have been made using Shopify to date.
+Shopify offers numerous plans and service tiers to fit a range of budgets, with options starting at $19 per month. Shopify also has free hosting included on all its plans.
+
+&emsp;&emsp;Pricing:
+<br>&emsp;&emsp;- Basic Plan: €19/month
+<br>&emsp;&emsp;- Shopify Plan: €49/month
+<br>&emsp;&emsp;- Advanced Plan: €259/month
+
