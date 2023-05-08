@@ -20,6 +20,11 @@
 
 &emsp;&emsp;Pricing: $14.99–$37.49/user/month
 
+5. **[Google Meet]()**
+<br>Google Meet (formerly hangout meets) is a smart video conferencing software for businesses globally. As Google Meet and Google Workspace are fully connected, you get the flexibility to attend meetings right from a Calendar event or email invitation. If you’re joining from a laptop, phone, or conference room, all the crucial event information is there when you need it.
 
-## Reference:
-https://geekflare.com/open-source-project-management-software/#geekflare-toc-openproject
+&emsp;&emsp;Pricing:
+&emsp;&emsp;- Google Meet Free
+&emsp;&emsp;- Google Workspace Individual: $7.99/month
+&emsp;&emsp;- Google Workspace Enterprise: As this is a custom plan, you need to contact the support staff to get the quotation.
+
