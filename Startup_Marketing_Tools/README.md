@@ -81,3 +81,22 @@ WiseStamp works seamlessly across all the popular email clients, including G Sui
 19. **[BuzzSumo](https://buzzsumo.com/)**
 <br>Find the best-performing social media content across all platforms with BuzzSumo.
 
+
+20. **[SendInBlue/Brevo](https://www.brevo.com/products/)**
+<br>Sendinblue includes email marketing tools and other capabilities like building landing pages and managing client relationships. Sendinblue’s email design features make it simple to produce a beautiful email with their selection of over 70 design templates. Additionally, each of these templates is responsive, and you can examine the results before publishing to be sure your design will appear as you intend it to on any screen size. You can also A/B test to eliminate the guesswork involved in campaign optimization and audience targeting.
+
+&emsp;&emsp;Pricing:
+<br>&emsp;&emsp;- Free plan: $0
+<br>&emsp;&emsp;- Lite Plan: Starting from $25/month
+<br>&emsp;&emsp;- Premium Plan: Starting from $65/month
+<br>&emsp;&emsp;- Enterprise Plan: As this is a customized plan, you need to contact their customer support.
+
+21. **[Moosend](https://moosend.com/)**
+<br>Moosend offers Startups an economical solution for email marketing. Using one of Moosend’s many tailor-made email templates or designing your own, you can conveniently and easily build an email newsletter and adjust the email format to match your brand’s identity.
+You can analyze important metrics like email opening rate, clicks, bounce rates, number of products viewed, transactions, and even demographics data with Moosend. The platform also lets you perform A/B testing.
+
+&emsp;&emsp;Pricing:
+<br>&emsp;&emsp;- Free Trial for 30 days
+<br>&emsp;&emsp;- Pro Plan: Starting from $9/month up to $5840/month.
+<br>&emsp;&emsp;- Enterprise Plan: As this is a custom plan, you need to contact Moosend’s customer support for the quotation
+
