@@ -24,7 +24,12 @@
 <br>Google Meet (formerly hangout meets) is a smart video conferencing software for businesses globally. As Google Meet and Google Workspace are fully connected, you get the flexibility to attend meetings right from a Calendar event or email invitation. If you’re joining from a laptop, phone, or conference room, all the crucial event information is there when you need it.
 
 &emsp;&emsp;Pricing:
-&emsp;&emsp;- Google Meet Free
-&emsp;&emsp;- Google Workspace Individual: $7.99/month
-&emsp;&emsp;- Google Workspace Enterprise: As this is a custom plan, you need to contact the support staff to get the quotation.
+<br>&emsp;&emsp;- Google Meet Free
+<br>&emsp;&emsp;- Google Workspace Individual: $7.99/month
+<br>&emsp;&emsp;- Google Workspace Enterprise: As this is a custom plan, you need to contact the support staff to get the quotation.
+
+
+5. **[Zoom](https://zoom.us)**
+<br>Similar to Google Meet, Zoom is a video conferencing platform. Group meetings are limited to 40 minutes with the free plan, but one-on-one video calls can be as long as you like. They offer optional add-ons, such as hosting webinars, as well as subscription packages with more features like the ability to record the meet.
+Participants don’t have to create an account in order to join a Zoom meeting, but hosts do need one to create meetings and send out invitations.
 
