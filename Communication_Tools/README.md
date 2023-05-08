@@ -33,3 +33,12 @@
 <br>Similar to Google Meet, Zoom is a video conferencing platform. Group meetings are limited to 40 minutes with the free plan, but one-on-one video calls can be as long as you like. They offer optional add-ons, such as hosting webinars, as well as subscription packages with more features like the ability to record the meet.
 Participants don’t have to create an account in order to join a Zoom meeting, but hosts do need one to create meetings and send out invitations.
 
+
+6. **[Coggle](https://coggle.it/?lang=en-US)**
+<br>Coggle lets you make and share mind maps and flow charts with a breeze. As it is available as a browser extension, you don’t need to download any additional software. Coggle enables startups to connect and chat with their team members in real-time while taking organized notes during brainstorming sessions.
+Coggle’s freemium version makes it ideal for startups that don’t have a lot of extra cash to spend.
+
+&emsp;&emsp;Pricing:
+<br>&emsp;&emsp;- Free Forever: $0
+<br>&emsp;&emsp;- Awesome Plan: $5/month
+<br>&emsp;&emsp;- Organization Plan: $8/member/month
