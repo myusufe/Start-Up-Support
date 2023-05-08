@@ -14,6 +14,16 @@ This repository has a lot information for people who want to start a startup bus
 - https://www.profitbooks.net/top-ten-business-software-with-a-free-plan/
 - https://salvadorbriggman.com/best-tech-startup-news-websites/
 
+## Donation for Jakarta Silicon Valley Hub Business Non-Profit Organization
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="P4VC8MCT7NDKJ" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+
 ## To update this repository
 
 …or create a new repository on the command line
