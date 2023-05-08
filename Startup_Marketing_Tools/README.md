@@ -74,6 +74,10 @@ WiseStamp works seamlessly across all the popular email clients, including G Sui
 17. **[AnswerThePublic](https://answerthepublic.com/)**
 <br>Digital ads are a waste of time and money. Content marketing is the best tool startups have for reaching targeted audiences and building brand awareness. AnswerThePublic can help you churn out hundreds of content ideas.
 
+&emsp;&emsp;Pricing:
+<br>&emsp;&emsp;- Pro Monthly: $99/month
+<br>&emsp;&emsp;- Pro Annual: $948
+<br>&emsp;&emsp;- Expert Plan: $199/month
 
 18. **[Optimizely](https://www.optimizely.com/)**
 <br>Optimizely is one of the best tools for startups because it helps you create an awesome digital experience (DX) across each platform. This is especially critical with Google’s Core Web Vitals update set to prioritize websites based on DX.
