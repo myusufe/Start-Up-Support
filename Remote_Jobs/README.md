@@ -35,17 +35,17 @@
 
 17. **[Etsy Studio](http://etsystudio.com/)** Marketplace for craft supplies and materials where you can sell your own handmade items or supplies.
 
-18. **[DynamiteJobs](https://dynamitejobs.com/remote-jobs)**
+18. **[DynamiteJobs](https://dynamitejobs.com/remote-jobs)** All postings verified by a team of people.
 
-19. **[Underdog.io](https://underdog.io/)**
+19. **[Underdog.io](https://underdog.io/)** Easy to apply features, great for start ups.
 
-20. **[JustRemote](https://justremote.co/)**
+20. **[JustRemote](https://justremote.co/)** Lots of search filters, easy to find roles.
 
-21. **[Nodesk](https://www.nodesk.fi/)**
+21. **[Nodesk](https://www.nodesk.fi/)** Best for digital nomads.
 
-22. **[Wellfound (formerly AngelList Talent)]()**
+22. **[Wellfound (formerly AngelList Talent)]()** A great list for remote tech positions.
 
-23. **[We Work Remotely](https://wellfound.com/)**
+23. **[We Work Remotely](https://wellfound.com/)** More high profile roles with top companies.
 
-24. **[Working Nomads](https://www.workingnomads.com/jobs)**
+24. **[Working Nomads](https://www.workingnomads.com/jobs)** Lots of **wfh** roles in tech and design.
 
