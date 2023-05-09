@@ -34,3 +34,18 @@
 16. **[Gigwalk.com](http://gigwalk.com/)** A platform that allows freelancers to complete short-term gigs such as data collection, merchandising, and product demos.
 
 17. **[Etsy Studio](http://etsystudio.com/)** Marketplace for craft supplies and materials where you can sell your own handmade items or supplies.
+
+18. **[DynamiteJobs](https://dynamitejobs.com/remote-jobs)**
+
+19. **[Underdog.io](https://underdog.io/)**
+
+20. **[JustRemote](https://justremote.co/)**
+
+21. **[Nodesk](https://www.nodesk.fi/)**
+
+22. **[Wellfound (formerly AngelList Talent)]()**
+
+23. **[We Work Remotely](https://wellfound.com/)**
+
+24. **[Working Nomads](https://www.workingnomads.com/jobs)**
+
