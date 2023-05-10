@@ -32,7 +32,6 @@
 
 4. **[Incfile](https://www.incfile.com/)**
 <br>Incfile is among the best LLC services out there. We’ve worked with them multiple times ourselves, and highly recommend their formation services. It’s impressive how much you get for only the state filing fee:
-<br>
 <br>- 1 free Year Registered Agent Service
 <br>- Real-time Order Tracking & Free Shipping
 <br>- Online Dashboard of Compliance Tools
