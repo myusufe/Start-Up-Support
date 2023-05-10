@@ -64,7 +64,7 @@
 <br>- Personalized Organizational Meeting Minutes & Corporate Bylaws
 <br><br>Similar to ZenBusiness, MyCompanyWorks provides the same LLC formation services listed above (e.g. EIN and registered agent services).
 
-8. **[BizFilings](https://www.wolterskluwer.com/)*
+8. **[BizFilings](https://www.wolterskluwer.com/)**
 <br>BizFilings has been open for over 20 years forming different business structures, and remains a respected LLC service for businesses of all shapes and sizes. Some of their popular features include:
 <br><br>- 3 Months of Free Registered Agent Service
 <br>- BizComply Compliance Monitoring Tool
