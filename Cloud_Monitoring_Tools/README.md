@@ -1,4 +1,4 @@
-## CLoud Monitoring Tools
+## Cloud Monitoring Tools
 
 1. **[Prometheus](https://prometheus.io/)**
 <br>Prometheus is an open-source cloud-native monitoring solution primarily fixated on data gathering and analysis based on time-series data. It enables users to set up monitoring capabilities by utilizing the in-built toolset.
@@ -11,11 +11,11 @@ It is able to assemble several metrics on servers, kubernetes, and various devic
 2. **[Zabbix](https://www.zabbix.com/)**
 Zabbix is open-source monitoring software with an easy-to-use interface for users with a low learning curve that provides enterprise-class solutions to large organizations. It is a centralized system that stores the data in a relational DB for efficient processing.
 <br><br>Here is what Zabbix can do;
-<br>Network Monitoring
-<br>Server Monitoring
-<br>Cloud Monitoring
-<br>Application Monitoring
-<br>Service Monitoring
+<br>- Network Monitoring
+<br>- Server Monitoring
+<br>- Cloud Monitoring
+<br>- Application Monitoring
+<br>- Service Monitoring
 
 3. **[Nagios](https://www.nagios.org/)**
 <br>Nagios is an open-source monitoring tool that has been in the market since 1999. It provides numerous facilities like integration with third-party apps using an additional plugin. Considering the length of time that Nagios has been in the industry, there are plenty of plugins written for it.  It can monitor a variety of components including Oss, applications, websites, middleware, web servers, etc.
