@@ -57,4 +57,18 @@
 <br> - Consultations with lawyers
 <br> - More exclusive discounts
 
+7. **[MyCompanyWorks](https://www.mycompanyworks.com/)**
+<br>MyCompanyWorks (formerly My New Company) is an interesting option for people who want to use a smaller incorporation service, instead of a large, less personalized company perhaps like LegalZoom.
+<br>- Startup Wizard To Help Organize After Formation
+<br>- Next-Day Processing for Important Documents
+<br>- Personalized Organizational Meeting Minutes & Corporate Bylaws
+<br><br>Similar to ZenBusiness, MyCompanyWorks provides the same LLC formation services listed above (e.g. EIN and registered agent services).
+
+8. **[BizFilings](https://www.wolterskluwer.com/)*
+<br>BizFilings has been open for over 20 years forming different business structures, and remains a respected LLC service for businesses of all shapes and sizes. Some of their popular features include:
+<br><br>- 3 Months of Free Registered Agent Service
+<br>- BizComply Compliance Monitoring Tool
+<br>- Extensive Document Library Access
+<br><br>BizFilings also has lots of valuable free educational content on their website, including some informative FAQs and state-by-state guides. They don’t stand out in any one way, but their incorporation filing package is nicely balanced.
+
 
