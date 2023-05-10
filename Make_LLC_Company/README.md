@@ -38,3 +38,23 @@
 <br><br>Incfile's LLC formation services are similar to those of ZenBusiness (e.g. Operating Agreement, EIN, registered agent services, etc).
 <br>Customers also rave about the support they receive from Incfile’s reps after starting a company, which is another one of the many reasons they’re a top-rated LLC service.
 
+5. **[LegalZoom](https://www.legalzoom.com/)**
+<br>LegalZoom is the most well-known and used business formation service available, with about 4 million customers served since they opened their doors in 1999. Their basic package includes:
+<br>- All formation documents filed with the state
+<br>- LegalZoom Peace of Mind Review
+<br>- 1-2-1 customer support
+<br><br>In addition to the typical LLC formation services, LegalZoom provides legal services for its clients and accounting services for your business tax needs (e.g. payroll taxes). Their business services have a more a la carte approach, which can add up quickly.
+<br><br>They don’t exactly have the best customer feedback due to customer support, but that’s usually the case with any company of this size and scope, so we have no problem recommending LegalZoom as an LLC service.
+
+6. **[Rocket Lawyer]()**
+<br>If you’re a small business owner interested in online legal services and advice beyond company formation, Rocket Lawyer is the best LLC service provider for you.
+<br><br>Rocket Lawyer has a subscription-based model, which gives premium members access to additional legal help and advice; TRUiC worked with Rocket Lawyer to create an excellent deal for our users through the exclusive New Business Bundle, which offers premium membership services at a discounted price. For $349.99 + State Fees (Regularly $649.97 + State Fees), you’ll gain access to a plethora of features including:
+<br>- LLC formation services
+<br>- Registered agent service for 1 year
+<br>- Online legal services such as:
+<br> - Simple-to-use documents and contracts
+<br> - Quick answers to your legal questions
+<br> - Consultations with lawyers
+<br> - More exclusive discounts
+
+
