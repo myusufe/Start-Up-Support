@@ -1,6 +1,6 @@
 # StartUp Support 
 ## About Startup Support github repository
-This Startup Support project has been consolidated by **[GoJakarta](https://gojakarta.io)** Non-Profit Organization, it provides some information for people who want to start a startup business. You will get a lot of softwares,tools, source news/ideas .etc that are very usefull for your startup business.
+This Startup Support project has been consolidated by **[GoJakarta](https://gojakarta.io)** Non-Profit Organization, it provides some information for people who want to start a startup business. You will get a lot of softwares, tools, source news/ideas .etc that are very usefull for your startup business.
 
 ## References
 - https://startupsavant.com/best-startup-tools
