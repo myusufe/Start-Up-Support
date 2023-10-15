@@ -1,3 +1,5 @@
+Impact-Site-Verification: 321c29bb-5cc8-474f-8889-befeba8615b3
+
 # Business Software with a Free Plan
 
 1. **[Wix (Web Development & Design Software)](https://wix.com/)**
