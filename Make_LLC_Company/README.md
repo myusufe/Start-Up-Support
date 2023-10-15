@@ -13,7 +13,7 @@
 <br>- Plenty of experience, but still a small enough company to provide a personal touch
 <br>Overall, we highly recommend Northwest due to its excellent customer service and affordability.
 
-2. **[ZenBusiness](https://www.zenbusiness.com/)**
+2. **[ZenBusiness](https://share.zenbusiness.com/myusufe)**
 <br>ZenBusiness is a small business formation service dedicated to helping others launch their ventures. The platform was founded in 2015 by a team of entrepreneurs who experienced the barriers that others continue to face today when starting a business.
 <br>ZenBusiness is a good option to start your company online for the following reasons:
 <br>- Knowledgeable and responsive customer support
